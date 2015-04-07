@@ -11,8 +11,8 @@ hosts =
 credentials = root:couchbase
 
 [storage]
-data = d:\data
-index = d:\data
+data = f:\data
+index = f:\data
 
 [credentials]
 rest = Administrator:password
